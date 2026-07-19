@@ -15,4 +15,4 @@ streamlit run app.py
 
 ## ```markdown
    - [📄 Методичка к ЛР №1: Точечный анализ (ai-investments-2d)](docs/lr_01_point_analysis.md)
-   - [📄 Методичка к ЛР №2: 3D-визуализация (ai-investments-3d)](docs/docs/lr_02_3d_visualization.md)
+   - [_📄_Методичка к ЛР №2: 3D-визуализация (ai-investments-3d)](docs/docs/lr_02_3d_visualization.md)
