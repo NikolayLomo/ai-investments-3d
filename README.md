@@ -18,3 +18,4 @@ streamlit run app.py
 
 - [Методичка к ЛР №2: 3D-визуализация (ai-investments-3d)](docs/lr_02_3d_visualization.md)
 https://github.com/NikolayLomo/ai-investments-3d/blob/main/docs/lr_02_3d_visualization.md
+- [📄 Методичка к ЛР №2: 3D-визуализация (ai-investments-3d)](docs/lr_02_3d_visualization.md)
